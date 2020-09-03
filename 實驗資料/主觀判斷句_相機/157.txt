@@ -1,0 +1,131 @@
+1[問題]推薦玩爐石順暢手機
+
+jasn4560: 最便宜就robin吧 雖然我覺得沒有iphone玩爐石都會頓
+powerdavid:  紅米note4X
+BetterMeYing: 紅米note4x
+powerdavid: robin會熱吧 我玩遊戲溫度都偏高欸
+jasn4560: 熱效能還是比S625好啊
+jasn4560: GPU等級就差很多了
+voucher: 還是拿s820 s821機子吧  子龍 小米 最便宜
+BetterMeYing: 紅米note3特製版 如果有的話
+qwe159236: I7
+wac08: 爐石上面才一篇呀 不過人家有神調教就是了
+cheerf: zuk z2可升到安卓7 s820不是假的電量也大 爐石連玩6
+cheerf: 小時 電量還有20多啪 二手5500到6000找看看
+Quentin5566: GB4.1多核 S808跑不到4000分 S625跑4000分很輕鬆
+Quentin5566: 遊戲續航力 肯定紅米note 4x大贏robin
+Quentin5566: S625 採用先進14nm製程的SOC 效能更能跑好跑滿
+raynthmn: 遊戲s625 普普不強選s650等級會比較好畢竟遊戲還是
+raynthmn: 吃gpu比較大
+Quentin5566: 一堆落後製程的soc 即使規格再好 過熱降頻就GG了
+jasn4560: s625再強 GPU還是輸s808
+wac08: 我以為遊戲是看GPU？
+jasn4560: 另外 我之前用人人嫌的S810玩爐石 並不會比S650差
+Quentin5566: 小米max跟紅米note 4x 都玩過爐石 我是覺得差不多
+jasn4560: 所以要拿S625來比S808 想太多了
+raynthmn: 的確s810玩爐石順但是會熱…
+CHTWifiHinet: 建議你給個大概預算 不然大家不好給你建議
+raynthmn: 跑大型遊戲就有差了
+Quentin5566: 各有優勢 規格好熱到降頻還是會輸
+jasn4560: 我Z3+ 連續玩個半小時都沒事了 S808怕啥
+Quentin5566: 我還拿過Z4T玩 有遇到lag
+raynthmn: z4t是2k螢幕歐
+wac08: 遊戲fps gpu>>cpu單核>cpu多核 前面兩項s625狂輸
+raynthmn: z5玩沒問題
+Quentin5566: 但沒算進實際會出現的過熱降頻 還只是理論上而已
+Quentin5566: Z4T我只拿了一周 因為有玩的遊戲都讓我受不了...
+jasn4560: 現實就是 根本沒你說的那麼嚴重 散熱爛到哭的Z3+
+jasn4560: 夏天玩都沒事了 S808根本小Case
+jasn4560: 2K比FHD 會不會差太多 連S820推2K都有人說不順了
+wac08: 625就省電U 沒你想的那麼神
+lf25074428: Iphone屌順
+Quentin5566: 625的優勢就是較不會過熱降頻 最能發揮如規格般的
+Quentin5566: 效能
+Quentin5566: 其他落後製程的soc 能發揮的都比較有限
+jasn4560: 但還是打不到S808 結論S625不會比較強
+jasn4560: 最佳選擇應該是買紅米note3 前提是買得到的話
+Quentin5566: 環境惡劣到一定程度 還是有可能的
+wac08: 你不是很常貼霸王龍曼哈頓 放上來瞧瞧唄
+Quentin5566: 畢竟手機的散熱 沒有像電腦那樣的能力
+jasn4560: 暑假 太陽底下玩的 還有什麼環境比這個惡劣 呵呵
+jasn4560: 而且 誰沒事會在太陽底下玩爐石 你的前提也太多了吧
+Quentin5566: 808也算降頻降得滿厲害的
+Quentin5566: http://i.imgur.com/BaTHGLO.jpg
+jasn4560: 效能是無庸置疑的 噴電也是無庸置疑的 一場10%是基
+jasn4560: 本
+oppor1l: 我為了玩爐石 就買了zf2 laser 滿耐操的～
+jasn4560: 玩遊戲GPU>>>CPU 大核降頻不代表什麼ok?
+Quentin5566: 難道GPU完全不降頻?
+wac08: 貼實測啦 別在降了
+jasn4560: 阿所以 s625贏S808的數據在哪
+jasn4560: 都給你假設就飽了
+Quentin5566: http://i.imgur.com/rFnrmnQ.png
+Quentin5566: https://goo.gl/O9MAEA
+Quentin5566: 我也只說多核贏 功耗控制 S625贏 S808本身規格較好
+wac08: 貼你常貼的霸王龍曼哈頓啦 一直貼Cpu多核...
+kaltu: 不是遊戲都就看GPU，是多邊形和平行浮點運算才看GPU
+kaltu: 。
+kaltu: 爐石我不覺得有多重的立體多邊形計算。
+jasn4560: 所以你到底哪裡得到玩爐石S625>S808的說法
+Quentin5566: S625還有這個 https://goo.gl/AnXlIN
+jasn4560: 多核到底能代表什麼？ 這就跟FX8多核超強 結果日常
+jasn4560: 應用還不是被i5/i3扒假的一樣意思
+Quentin5566: 我只有說玩遊戲的續航力 S625>S808
+wac08: 最不重要的就是多核Cpu 你沒看遊戲fps 賽揚都能上
+wac08: 打i5了
+jasn4560: Quentin5566: 一堆落後製程的soc 即使規格再好 過熱
+jasn4560: 降頻就GG了
+jasn4560: 我是不覺得你這句跟續航有什麼關係啦
+Quentin5566: 製造廢熱需要電力 當然有關係
+wac08: 標題就是在問爐石順暢的手機 一直跳針Cpu多核跟續
+wac08: 航...
+frank543: 昆丁56最擅長的就是轉移焦點跟跳針阿 意外嗎 XD
+Quentin5566: 把S625和S808的利弊提出來而已
+wac08: 他是沒看標題跟內文就推文嗎？ 雞同鴨講...
+wac08: 你乾脆說紅米拍照差算了 也一樣跟本篇無關
+jasn4560: 連最愛的霸王龍都貼不出來了
+wac08: 找了好久 找不到霸王龍降頻降到輸625的808 QQ
+tryit2589365: r9s 的s625 稍微感受的出不流暢
+bhbbbbb: 我都不知道原來有手機玩爐石會盪 水果行果然不賣垃
+bhbbbbb: 圾
+a849070: 玩爐石還真的808不一定贏625,cpu的確狂降頻不行啊
+a849070: 要玩爐石買隻iOS系的比較好,手上mini4>>>s7
+jerry931017: 爐石不都鎖30幀嗎= =
+zvx911: 1+3T
+mushroom7219: mini 2打爐石有時候會lag
+lin11220206: 好噁心= =
+k91011022: 差很多
+Noel7788: Iphone 我覺到還行
+Northeagle86: S6 exynos核心，效能等同810
+Northeagle86: 玩起來很順但是會熱
+Northeagle86: 如果樓主要順而且不熱可能要考慮820的機子
+jhangyu: 你s808一場耗電10%，是能玩幾場？
+jhangyu: 還真是第一次看到808鐵衛隊
+jhangyu: 難不成你插著AC電源再來比這兩個SoC
+jhangyu: 好啦那你還不如把CPU換成Core M7，這樣效能最屌了
+jasn4560: 順為前提 不看內文？
+kaltu: 只考慮順為前提不考慮任何其他當然是組一台三十萬的
+kaltu: 伺服器跑訂做的UNIX系統模擬iOS或android跑爐石啊
+c1396: 哀縫
+wac08: 價錢越低越好 不看內文?
+ohmylove347: 爐石請買iPhone，那順暢度不唬爛
+w09351500: 挑最便宜的820機，結案
+a849070: 不過真的不推808平常使用就會降頻，手上也有G4根本
+a849070: 拿來當手電筒跟看Youtube用而已
+a951l753vin: 手機當桌機在用的(使用時間)  買14nm SOC的機子就
+a951l753vin: 對了
+a951l753vin: 時間一長 那個發熱程度有感 就會降頻就會頓
+ave23: 請問note 4x跟zf3雙卡手機,哪個4g訊號比較好?
+ave23: 還是哪個雙卡手機4g訊號比較好
+jasn4560: ZF3光是全頻就屌打NOTE4X
+hamed: 我z5剛剛試了一下，會熱但不會頓阿，而且也沒到很熱
+hamed: …
+kamir: s808打了將近一年的PSO2ES, 不容易頓。
+kamir: 我的是沒bootloop的5x
+LikeCherry: 今天我在關西機場剛好玩了一早上的爐石 ZF3玩兩小
+LikeCherry: 時 70%to15% 再來是i6s約一個半小時 70%to20% 只有
+LikeCherry: 剛排到一瞬間ZF3會頓一下 其他根本無感 說真的玩爐
+LikeCherry: 石續航比啥都重要 不需要效能怪物
+yao03911: ZF3 我覺得在順暢跟省電上取得不錯的平衡，只有
+yao03911: 在找人那邊會頓一下，遊戲中還ok
+Asbtt: 愛瘋。沒錢去賣屁股。

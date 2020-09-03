@@ -1,0 +1,93 @@
+2[情報] ASUS ROG PHONE VS IPHONE XR 速度測試
+
+jim68126812: 阿不是說解析度降低就會贏了嗎
+plzza0cats: 果粉會說FGO不準
+plzza0cats: FGO跑的比較快
+CChahaXD: 看來可以左打iPhone，右打Pixel3、Z3了
+q30339: 三創 現場玩rog會卡
+abc21086999: 哇塞還蠻強的，不過閃屏88
+heacoun: 三創現場玩很順，要這麼籠統講誰都會。
+RAA1144557: 三創試玩會… 好吧我沒去
+class21535: 左邊那是PWM嗎...
+class21535: 能贏IOS+A12+828P真的不簡單 ROG威武
+oppoR20: ROG跟XR價格差不多才是重點
+menshuei: 因為ROG現在市場還未威脅到iphone，如果侵蝕到了iPh
+menshuei: one的銷售，那蘋果才有可能把A12x放上去，。
+markmao: 波紋是刷新率的關係吧 PWM應該是拍不出來？
+RAA1144557: PWM當然拍的出來啊
+agong: 傷眼的
+gn01140216: ROG真強，iphone真的言過其實
+q30339: 講的很籠統嗎？玩平安京會卡頓，三創rog攤位，有手
+q30339: 把的那台，進到主畫面卡一下，選角進入也卡一下
+gvmlve: 為什麼 蘋果跑分強，卻輸了
+q30339: xr沒裝這些遊戲沒法測試
+saurik: rog真強，但還是沒人買
+grace0523: ROG好猛
+PCMAN2005: 明年9999清庫存叫我
+heacoun: 後面細節一開始有講就不叫籠統，很難理解嗎？
+OROCHII: 不同系統不能比....
+lovecat5566: 有測有推
+IvanLord: 根本不用看就知道ROG穩虐蘋果了..
+q30339: 我沒質疑你的話，所以補了後面，很難理解嗎？
+q30339: 大家可以現場試玩，不知道是不是現場手機會弄掛了
+q30339: 還是怎樣,其他遊戲倒是不會卡
+isawaghost: 為啥遊戲順暢度讀取速度都沒人敢測
+walter741225: FGO台版開90HZ玩 我個人可以容忍讀取
+walter741225: 因為除了第一次比較久 其實第二次開始就能接受
+lonelysin: 記憶體讀取速度xs max:連續讀取速度達1635MB/s;連續
+lanszul: 連Xr都輸了，接下來只能請iPad Pro了嗎?
+lonelysin: 寫入速度達702MB/s，海放ROG無誤。但實際為何輸成這
+lonelysin: 樣真的蠻值得探討的。
+hyk32166: 明年ROG能砍一半價格就入手一支...
+lonelysin: ROG:連續讀取約751.74MB/s、連續寫入約244.73MB/s
+ankala: 人都快裁掉還敢買 一個字 貪
+lanszul: 讀取速度iphone占優勢，除了APP優化以外，在開啟多
+lanszul: 個程式的時候，大小核切換的速度也是考量之一
+lanszul: L2快取也是A系列SOC比較大，應該還有其他原因
+APC: http://i.imgur.com/XN4xQmo.jpg
+APC: 歐蕾尊享的 PWM，請聞香一下
+lanszul: 另外，多個APP在後台不清除的情況下，連續開啟對
+lanszul: 手機系統壓力更大，開遊戲順暢度那真的還好
+buster520798: 我還不買爆rogphone
+WFXX: a大那個讓我看不出是哪個手機的尊榮……
+Mrchungken: 果粉除了拿 fgo 出來救援以外 已經沒招惹 低解析度
+Mrchungken: 還是打不過rog 信仰受到挑戰
+APC: S9+
+APC: 指名三星 OLED 螢幕 (另外送至哎鳳 X 系列) 皆能尊
+APC: 享低頻 PWM
+ayasesayuki: 來比FGO啊
+bubunana: 請問ROG 跟 5z 的GSMarena battery life 報告出來嗎
+bubunana: ？蠻好奇這樣調度設定下 後兩項目 綜合是多少？
+hedgehogs: 贏個4g ram的東西有什麼好說嘴的？
+BIGETC: 清晰度低一階 製程比較晚出 怎麼還比較慢
+WFXX: 笑死，現在連RAM都可以簽脫了
+ming0303: 一年之後再測試看看r
+grace0523: 不服比個跑分啊
+kpieola: 理論上來說蘋果會比叫快 可是測試結果為啥會這樣哈
+kpieola: 哈
+grace0523: 可能開app時只用小核在開吧
+ienorieie: 路上沒看到有人用rog阿
+zweibeee: 高潮文來惹
+darkholy: 安兔兔有針對唉鳳最佳化吧，跑分就是爽
+sunskist0831: 果粉都裝做沒看這篇 褲子都被沖走啦
+heacoun: http://i.imgur.com/LZcJQz9.jpg  天2蠻順的
+justo180: 可是我可以花不到Rog一半的錢買其它支搭載android
+justo180:  的s845手機，但我花XR一半的錢買不到其他支A搭載
+justo180: ios的A12的手機，還不明白問題在哪嗎…
+justo180: 高通的處理器的定位要更精確，要推出一款比s845更
+justo180: 高階的手機給像Rog這種機子用，應該不大可能是技術
+justo180: 不夠推出更強悍的cpu,高通耶
+heacoun: 然後你覺得其他廠商不會叫自己的CPU是次級品嗎
+b954945: rog真的不錯，但是沒人買
+jimei2: 沒想到連XR都輸ROG 本來蘋果遊戲讀取可是一絕啊
+WuDhar: ROG還沒開X mode…
+cavitylapper: 電競機玩遊戲居然會卡頓
+cash35: ROG開遊戲很快，可是進遊戲會頓
+tzuen000: 目前看下來rog應該是現今效能最強的手機吧？
+ctes940008: 所以呢？ 銷量？
+lonelysin: 真的沒開X mode(驚!)
+Fice: 可是螢幕大輸
+x3028671: 比銷量啊（？
+z1x2c3v4: 玩遊戲卡頓？鍵盤玩家？
+HappyKH: 如果是媒體機華碩應該是有挑過的
+aladdin1212: ROG Phone真的強

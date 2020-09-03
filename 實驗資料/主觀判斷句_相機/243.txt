@@ -1,0 +1,114 @@
+1[問題] 與A9差不多效能但續航較好的中階手機?
+
+Lsamia: 沒尺寸限制的話挺多的阿
+jumbotest: 效能都大於等於a9 隨便買都是
+a3619453: 這價位真的隨便買都比較強 S61X系列效能很爛
+fka11tom: z5，爆一點note5
+sarspieya521: 中高階以上大多都符合吧，除了特定幾隻續航悲劇，
+sarspieya521: 例如G4
+z995595: A9差不多效能 又要玩遊戲…
+jimei2: 從處理器挑續航性能大於A9 就801,7420,65x,950機種
+jimei2: 801只有一個例外 g3 因為用801拖2K螢幕
+tgbhjk13: 剩紅米note3了吧
+shi21: S6
+lintetsuya: 61*系列到底多爛...A9我都順順用玩野球魂也不卡
+sumins: 這價位續行效能三星倒是一堆超過他
+rex1135: 還是必須說一下a9強在順暢度而不是效能，親自去用看
+rex1135: 看就知道了，不只是桌面順而已，app切換還有過場動
+rex1135: 畫都調得很好
+jeff101234: 不是61x系列就一定爛   是賣這價位用61x在爛...
+jeff101234: 改成用s650上個CA 電池加大一點 還不賣翻?
+james732: s617是8核，s650是6核，會不會有人覺得是降級...XDD
+Lsamia: Xperia X就是650上個CA 可是我猜大概凶多吉少
+puput: 我就覺得那個htc 10 652版本真的很不錯! 快賣阿
+qsef5: 等m10降一萬六？
+jimei2: 目前來說中階處理器最佳選擇就650與652
+jeff101234: 依索尼定價 要等跳水吧XD
+puput: 可是65X系列的手機現在還真的不多
+kyo06: 但幾乎沒什麼65X系列的機種
+enixdqm3: A9不是很流暢穩定,要找到效能比A9的617好的很簡單
+jeff101234: 高通有控制出貨吧  小米拿到那麼大一批650 說不定是
+jeff101234: 條件交換也一起收體質較差的820
+enixdqm3: 找65X或8XX就好了,但是系統調整的完成度比A9優秀的
+jimei2: 之前有傳聞是小米三星獨占65x產量一段時間
+enixdqm3: ,不是很好找,至少紅米N3就輸
+shi21: 比A9續航好的一堆 但比A9流暢的就只能往旗鑑找了
+kyo06: 那可能真的是要買到一定量的S820才有吧
+Quentin5566: S617的GPU Adreno405 在中階幾乎墊底了
+Quentin5566: 還真的適合玩遊戲？
+Quentin5566: http://i.imgur.com/BARsq9B.jpg http://i.imgur.co
+Quentin5566: m/fpO07W8.jpg
+Quentin5566: http://i.imgur.com/DkUSg8B.jpg
+shi21: 目前旗鑑又爆預算 往前代旗鑑找又810機種 只能勉強
+shi21: 推S6
+Quentin5566: 跟A9效能差不多 續航海放A9
+Quentin5566: 你可以買好幾隻這台 一台600多人民幣而已
+Quentin5566: http://i.imgur.com/EfzsUKV.jpg
+Quentin5566: http://i.imgur.com/a5PyUNG.jpg
+jimei2: 由gfxbench看到去年中階61x/6752/7580的GPU都頗弱
+Quentin5566: 還是這台A9 http://i.imgur.com/D2sRb5n.jpg
+Quentin5566: S652效能不錯 續航又很讚 但台灣沒賣
+jimei2: 三星a9很貴的~ 大陸有賣 3499人民幣
+Quentin5566: 對啊 樓主內文也沒說是三星A9 還是hTC的A9...
+Quentin5566: 我是覺得S61X MT675X Exynos7580
+Quentin5566: 這類幾乎是準電子垃圾了
+Quentin5566: 類似架構都已經命名為S415 MSM8929
+Quentin5566: 根本就是入門機的soc
+OlivierLin: 隔壁有賣全新15000的NOTE5阿
+b8806: 買小米10000高配，快快充快快好，解決你的困擾
+Quentin5566: 都考慮小米
+Quentin5566:  一台A9可以多買幾隻紅米3
+Quentin5566: 續航一隻都已經海放了
+Quentin5566: 好多隻應該都打到地心了
+Quentin5566: 反正S616 S617都差不多效能
+Quentin5566: 看起來至少三隻 一隻只有16G的話
+Quentin5566: 三隻就48G 更不用考慮32G版的A9
+kyle5241: iPhone SE啊～續航電爆6s
+sagesatan: 又有人在用CPU挑手機了,沒用過有在那邊講的頭頭是道
+d88647511: OPPO r7
+d88647511: 另外划神魔會噸的手機 效能確實爛
+d88647511: OPPO電量海放A9好幾馬身
+d88647511: 還有鐵桿h粉絲護航起手可以換一個嗎 永遠都沒用過
+Quentin5566: 樓主考慮遊戲效能 所以用GPU來挑手機 這裡有人用CPU
+Quentin5566: 挑手機？
+Quentin5566: Adreno405都是準垃圾級了 應該是不用考慮...
+kamir: 樓主不要3G Ram的話，有Nexus 5X可以選。
+Quentin5566: 看一下樓主之前的文章 ZR用的是Adreno320
+Quentin5566: 換成Adreno405 差距幾乎無感吧...
+Quentin5566: ZR換電池就好了 就有跟A9接近的效能
+Quentin5566: 又有比A9還要好的續航...
+Quentin5566: http://i.imgur.com/ObN9YO3.jpg
+Quentin5566: 刷一下就有棉花糖吃了
+Quentin5566: http://goo.gl/JK1rew
+henry770804: https://goo.gl/D4gYS5 這幾支續航都比A9好
+kerry1461: MATE8
+eternal3326: 沒被雷過怎麼心有餘悸
+qsc717379: 原PO你怎麼好像把A9想的有點神
+seafire: z3 s6 m9 a72016
+Quentin5566: 你花錢買一隻無感升級的手機還很爽
+Quentin5566: 那就上A9吧...
+Quentin5566: 搭配NP 用更好的退佣優惠來拿高階機
+Quentin5566: 這樣不是更好？
+Quentin5566: S7和10都出了 應該是沒有無法中意的手機
+Quentin5566: 原本續約拿不到 那就np一下就能拿到了...
+pkpkc: 紅米NOTE3 選我正解
+pkpkc: 忘記說 要高配版 S650+32G+3G
+wctoymr: A7 2016
+blackrays: 能取代A9的只有iPhone
+sprucewind: 剛從ZL換A9，真他媽的順暢超多
+lintetsuya: 買支手機而已不是人生大事 看順眼 符合需求 預算有
+lintetsuya: 到 就下手吧 別人說再多也沒用 我從M7到A9 也是用得
+lintetsuya: 很爽
+manbow77: HTC X9  3G ram 32G rom GPU明顯強一截
+manbow77: 一樣原生就順暢的6.0  定價比A9便宜  續航也小贏
+manbow77: 但認真說來  這價位有更多更好的選擇
+manbow77: PowerVR G6200比Adreno405強上不少
+manbow77: 相對的玩遊戲也比較耗電
+li11223344: 3000可以買很多行動電源了，不然應該無解
+li11223344: 續航差跟續航好，玩遊戲應該最多差ㄧ小時
+accin: 我以前都用one v玩神魔了...有事嗎
+gm79227922: 真的隨便一隻都比a9高吧 a9強拍照跟調教
+d88647511: a9真的只有滑動桌面很順而已，別聽那些人吹有多順，
+d88647511: 我就是被誤導的苦主，叫我重選一定直接s6，還有熱點
+d88647511: 短線無解問題
+lintetsuya: 樓上是買2/16版本嗎?怎麼會卡我3/32買來從沒卡過欸

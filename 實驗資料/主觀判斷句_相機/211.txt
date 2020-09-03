@@ -1,0 +1,110 @@
+1[問題] Type C的手機
+
+natsugo: 未來是多久？有需要就買，不要10你還有小米5 5x之類
+olmtw: 線比較重要吧
+natsugo: 我用nextbit Robin也是typec要充電前都會看有沒有東
+natsugo: 西卡在充電孔裡面，有在找typec孔塞子
+hinabi: 不管是不是typec都需要檢查線和充電孔的狀況好嗎
+kyo06: 其實應該快了，明年要找非type C搞不好還比較難
+natsugo: 我是買線派  轉接頭out
+Koch: type c 主打電壓增高電流加倍加速充電 自然要小心點
+kyo06: 不過線材跟周邊的品質上可能還需要磨一陣子
+Koch: 如果手機晶片沒控好就有風險
+Koch: 這個蘋果就很謹慎 不快充又挑線
+Lumia820: 看來lighting線比較沒這個問題
+natsugo: ZF3也很謹慎只認自家的QC 3.0
+Lumia820: 還有傳統micro USB可能比較沒有Type C的問題
+Rigaudon: 現在檯面上最火熱的type-c手機就Note 7啊，你看多火
+Rigaudon: 熱，熱到都能燒起來了XD
+vince4687: 子龍三也是吧 不過充電真的快 現在玩紅米n4普通USB
+vince4687: 充電時間慢超多
+kyo06: 他們兩者的電量有差吧Orz
+kyo06: ZF3也就是5V2A，難道紅米N4不到這速度嗎?
+kyo06: 平板的量跟手機差太多了，手機大廠幾乎都轉typeC
+kyo06: 當三星也投入時就幾乎確定typeC年代來臨了
+kyo06: 不過三星現在火燒中，但華為也已經轉了
+herculex: 不用兩三年，大概再半年，主流廠商都推了
+Tass: 充電規格跟usb的type沒有關連吧
+Tass: 手機 QC2.0 9v1.5a充電還是用micro孔啊
+herculex: 連行動電源都再推Type C，用舊接頭才是自找麻煩
+herculex: sony 華碩 小米 LG 三星都推了，剩下還有誰沒有？
+kyo06: 可能會有一段時間中低階還有機會走mUSB
+kyo06: 但高階旗艦應該是幾乎確定全面typeC了吧
+kyo06: 畢竟三星算是比較晚導入的，其他很多都上半年就導
+mader4444: 不覺得品質好的typec線很難買，防潮箱放一堆
+andyll2: 有推薦的副廠type-c線嗎？
+jumpjumpegg: 不懂你覺得麻煩的點在哪，type c線和c轉b的頭都很好
+jumpjumpegg: 買啊
+mader4444: 不過會怕就買原廠的充，免得燒毀廠商不承認
+AISC: 只有手機端type c有毛用 另一端還是A
+jerry931017: 華碩原廠充電組去哪買?官網都沒有賣
+Tass: type-c普及化的過渡期看起來還有三四年 這期間各種
+Tass: 轉接頭應該會賣到翻
+Tass: 手機端普及 再來就是電腦端普及....(汗
+kyo06: 慢慢有只內建typeC端的電腦陸續推出了Orz
+kyo06: 不過電腦端的汰換會慢很多，畢竟大家很少年年換吧
+kyo06: 手機這邊的帶動會快一些，一兩年一換
+jumbotest: 現在用type c絕對是自找麻煩
+kyo06: 現在你要買高階機種，想不用typeC也難吧
+jumbotest: 行動電源、雙槍、互借手機都要花心力去轉接
+vince4687: 可能也是電池電量的差距吧 一個3000一個4000 沒想
+vince4687: 到這個問題~那多充一點時間好像也是合理的
+jeff101234: 電腦端要普及還需要各種周邊跟上阿....連個USB3.0都
+jeff101234: 推好久...
+natsugo: PC生命週期那麼長又不像手機
+lt921205: lightning限制一堆被吹，ZF3嚴謹一點就被炮了XDD
+s91156: LG也會認原廠的線，連用他們上市禮補贈的副廠線都不
+s91156: 給快充
+labbat: 華碩為什麼不做QC3.0相容的手機啊，非type C的在哪
+natsugo: lightning只有一家用無從比較 要麻ZF3不要掛QC3.0
+hsiung9: 搞不懂哪裡麻煩了 我買htc10 就兩條線了 為了行動快
+hsiung9: 充買小米高配又一條 事實上根本綽綽有餘
+ckroy: 現在新的旗艦機幾乎都是 type-c 了好嗎
+Lumia820: Zenfone 3可惜用的是Type C，不然我也想買
+jumpjumpegg: 除非未來電腦要把Hdmi/dp也都整進USB,不然用type-a
+jumpjumpegg: 就很夠了
+troubled: 沒type-C的手機不考慮 光是可以盲插就大勝
+ialeou: TYPE-A一樣可以支援USB 3.1，電腦端根本不用換吧
+kyo06: 電腦端換的理由就是要爭取空間吧
+pcmaner: Pixel一出 會加速Type C官方推動的普及性吧
+kyo06: 為啥Pixel出就會加速??
+jeff101234: 真要說應該是iphone用Type C就會快速普及了
+james732: 確實如果iPhone改用Type-c的話推力會是最大的XD
+TristyRumble: 看不懂哪裏麻煩了0.0
+windsoul0312: apple要賺MFI認證，不太可能用通用規格
+wadeabc: 用特規製造垃圾，垃圾蘋果
+pensees: 問題是除了手機，micro usb的設備一堆，藍牙耳機、
+pensees: 音響、相機，每天都要帶兩條線....
+pensees: 現在的方便性流通度 micro usb>>> lightning>>> typ
+pensees: e c
+pensees: 現在type c只有麻煩而已。三星最賣的S7也不是typec
+pcmaner: 推 垃圾蘋果 +1
+Freecoins: type-c這兩年旗艦普及應該很快，但也就這樣了
+domain: Type-C 對手機來說影響有限,對 PC 來說影響才比較大
+domain: 手機micro-usb變type-c, 對PC來說原本就沒micro-usb
+james732: Type-C的終極目標是要把PC端的Type-A也吃下來
+pensees: 手機一年賣超過10億支。幾隻有type c
+dslite: LG (microusb) 我全副廠照樣快充 不會認啊
+gomidonnsine: 我用5x，保險起見在Google商店買了四百多的線
+fonzae: 想當初micro usb想說不會那麼快被取代，現在那一隻
+fonzae: 手機還在用mocro usb,到處都是mini usb,type-c支援
+fonzae: 更廣，早晚也會取代的
+fonzae: 上面打反，請自行轉換
+robobitan: Type C其實跟蘋果有很大關係
+Szss: 現在沒APPLE的晶片硬體鎖還不錯用 雙插頭好
+windnia: 我用Nexus5X，改用Sony CP-AD3
+windnia: 感覺比較放心
+windnia: 轉接線我個人不敢用
+abx310492: 還好吧 除了換的線比較難買以外沒什麼問題
+LoveBeam: ZenFone 3被炮是因為指認自家變壓器，但又沒另外賣
+LoveBeam: 自家的變壓器，難不成要再買一支手機?
+bhis: 最近的感覺是真的會自找麻煩，尤其是家裡人跟你不
+bhis: 一樣，typeC線要一直帶著，出門帶行動電源有人沒帶
+bhis: 自己的micro線，我的也沒辦法借他充。
+bhis: 沒什麼朋友沒什麼家人當然不會有這些事
+bhis: 當然過幾年普及後，這些全都不是問題就是了
+ptta: 請大家多多使用type-c,這樣才能多賣一些晶片
+Sunshinewhal: 就是這篇文，昨晚睡前看完，今天就忘了帶出門…問了
+Sunshinewhal: 20個人，只有1個人有
+pcmaner: 是不會兩種線都帶喔 我朋友超多照樣只帶Type C啊～
+pcmaner: ～

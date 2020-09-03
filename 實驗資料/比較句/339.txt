@@ -1,0 +1,211 @@
+2[討論] HTC10 VS S7 VS G5 速度對決
+
+DiChik: 昨天有看到，不過太不嚴謹了，還有模糊的畫面...
+DiChik: https://youtu.be/fi46Io_Y8Kc
+DiChik: 這個比較刺激一點  ((咦
+JuiFu617: 以前好像沒有輸那麼多，這次速度2年前的Htc
+hbk20491: 支持國產這點小問題可以睜一隻眼閉一隻眼
+JuiFu617: Htc螢幕對比下好暗
+qazsx2349: g5那個醜到不行的背面 就先淘汰
+DiChik: 10的螢幕本來就不算太亮了.....400nits都沒破
+JuiFu617: s7e螢幕這次沒破500nits也算失常
+nath0975: 有人猜合併了記憶卡在跑的
+sa074463: 五樓怎麼了？
+DiChik: S7E沒破500nits雖然失望，但4xx這數字算還可以接受
+DiChik: 到了3開頭的亮度...戶外大太陽底下真的不能用啊..
+rockmanalpha: 第一句就失敗了 10跑分並沒有很高 你看的是未修正
+rockmanalpha: 前的安兔兔吧...
+theHum: 10完全被屌打誒
+DiChik: 6.1.4版的安兔兔，大家普遍下修一點
+DiChik: 10掉最多
+popm: 有這麼慢? 怎麼我到三創去試機是HTC比S7e快跟順
+xiaoyao: 迪奇好壞XDD HTC 10螢幕亮度實在是………
+genhuang: 根本不用比，一定是10比較快
+zerofoursix: 所以完美10那個跑分高可以幹嘛?
+r51303: 10輸真慘，這個已經算嚴謹了吧
+shhs1000246: 幫QQ
+beshark: 好的手機比跑分？ iphone哪時候拿跑分說嘴了
+AndyZer: 換個遊戲，可能就第一了XD
+suifong: 怎麼可能，這次hTC 10可是要帶領hTC重返農藥的，不
+suifong: 可能是產品比競品差，一定是沒好好行銷的問題，都是
+zsp40773: 不少果迷拿安兔兔跑分炫耀啊，平行時空嗎
+suifong: 行銷的錯。
+toys: s7的版本是820？
+madeinheaven: 8890
+henry770804: 果然跑分不能吃~
+mader4444: 只要10有任何負面資訊，就會有人開始把g5的背面拉出
+mader4444: 來救援XD，G5都快變成5維拉了
+Catlaco: 不公平啦 S7E有HOME鍵 回桌面比較快 G5吃虧太多了
+wiabc: 這差距好像有點大....不過我想桌面不會lag就好對吧
+Catlaco: 個人認為 G5 >= S7E >= HTC10
+Catlaco: 如果S7E用820版本 那就是 G5 >= HTC10 >=S7E
+LianD: 測第二輪啊 三爽一定re… 咦？
+LianD: 一定是htc沒調教好 透過更新就可以解決啦
+Catlaco: G5的背面很人性化阿 正常人都是有兩個眼睛的吧
+LianD: 一定是高通豬隊友 沒事兒沒事兒
+Catlaco: 要就拿S820的S7來比阿 拿8890輸了不意外 贏了不光彩
+LianD: 我幫腸粉先護航完了
+DiChik: S820輸E8890才不光彩吧....
+Catlaco: 8890 8核打4核 這麼不公平 贏了當然不光彩
+hyghmax1202: 開程式的速度跟loading比較有關係 hTC 10用eMMC 5.0
+hyghmax1202:  會輸不意外 跑分本來就不能代表一切 會把跑分拿來
+hyghmax1202: 說嘴的不外乎就是1. 手機本身沒優勢 2. 想打臉其他
+hyghmax1202: 品牌
+OscarShih: HTC 10那個跑分也是bug…所以也不是什麼跑分王
+zsp40773: 又要戰了 無聊
+kyo06: 至少目前很多測試看起來8890在多工這部分改善很多了
+OscarShih: 反正這個不會影響國人買HTC 10的,不要再貼了
+LianD: 請三爽客製一隻S7使用emmc的再來比過 這樣才算數哦
+OscarShih: 沒錯,其它2支用UFS2.0這樣不公平,要用emmc來比
+jjh: htc用的是emmc5.1，還是不快就是了
+wiabc: 10之前不是測到htc用什麼做快取跑得比ufs2還快嗎
+dkchronos: 我覺得這個版應該有不少人是1500點hTC的...真恐怖
+dkchronos: 看到一堆h黑和反串h粉一搭一唱玩得很高興...
+OscarShih: 應該真的是高通的問題,HTC是受害者
+zsp40773: 用SLC做快取
+OscarShih: SLC比較耐用,讀取速度不重要,耐用才是手機的根本
+a0987285573: 官方自己嗆聲說：HTC 10將是速度最快安卓手機，差
+a0987285573: 個幾秒大家可以當沒看到，差這麼多...官方要出來解
+Catlaco: S820三爽做的 Ram可能也是 結論:都是三爽害的QQ
+a0987285573: 釋一下嗎？這哪裡是當初說的速度最快？
+OscarShih: 有道理,其實都是三星在暗中做鬼,HTC又被暗算了
+Catlaco: 跟自己比就好阿 官方又沒說要跟別家比..
+zerofoursix: 完美10到底贏三星和lg哪裡啊？ 之前說相機音質很猛
+zerofoursix: 跑分第一 好像都不準？ 但一堆人又在推 好想知道喔
+OscarShih: 跑分被修正後其實就不準了,安兔兔大概是被三星收買
+Catlaco: 要跟別家比 想想MIT 就會有 \ 超越勝負的感動QQ /
+OscarShih: 是阿,就像書豪或大樹哥打球一樣,一定要挺一下
+LianD: 光背面那三個字 很難不心動拉
+zsp40773: 音質LG V10,照相夜拍G5,低光源拍攝S7,金屬廚HTC 10
+rockmanalpha: 結果就是反串的人最關心HTC...
+OscarShih: 今天上漲耶,你們到底是不滿意什麼啦,不要起爭議
+Catlaco: 即使有一天樹倒猢猻散 反串還是會不離不棄 支持HTC
+mader4444: 有缺點不能點出來不然是反串h黑XDD
+allen225: 真有趣的推文 XDDDD Y
+rockmanalpha: 有缺點當然點出來啊 但你看上面就是一堆反串無誤
+ben108472: Oscar每篇HTC幾乎都出現
+mader4444: 我看奧斯卡蠻努力在平衡的不是很好嗎XDDD
+rockmanalpha: EMMC5.1讀取差UFS2很多之前評測就有結果
+Catlaco: 不能怪Oscar吧 若不是有人直接在標題打G5 失敗
+Inzaghi0227: 輸到是還好，可是htc也不會慢到那種程度吧！單開遊
+Inzaghi0227: 戲速度820有這麼弱嗎？
+priv: 唯一支持 G5
+rockmanalpha: 比較喜歡V10 希望會出V20 XD
+Inzaghi0227: 我是說推文裡的影片，開個遊戲要一分多鐘才可以玩是
+Inzaghi0227: 哪裡有問題了吧！
+allen225: 在這有些推文要學會自動判斷過濾，才能得到有效資訊
+Catlaco: 也不會讓人這麼想來宣導 超越勝敗的感動 啊...
+zsp40773: 本版唯一真腸粉R妹
+xiaoyao: 唯一支持Catlaco & Oscar XD
+kyo06: 開啟速度跟S820關係其實不大耶
+kyo06: 不過我也好奇emmc5.1有慢到這麼多嗎
+OscarShih: 支持G5, 月賣300台以上
+OscarShih: 你是有多忙,慢個幾十秒有問題嗎
+biostrike: 第一輪的開遊戲也差太多，不知道讀取在跑什麼
+qaz13579: 修正版 10跑分普遍輸其它旗艦機種
+OscarShih: 安兔兔又不準,下次就不要再用這軟體了,沒事修正什麼
+Catlaco: 就算跑分輸讀取慢 實際使用也感覺不出來啦
+Catlaco: 很少有人會同時使用兩隻旗艦手機做相同動作的阿
+OscarShih: 沒錯,順就好了,讀取差個幾秒根本不是什麼問題
+OscarShih: 就像你家硬碟全換SSD了嗎?沒吧, 所以急什麼
+xiaoyao: 螢幕亮度 ，效能 ，續航 ……似乎 ……嗯
+Catlaco: 一切都是 超越勝負的感動
+platolove: 之前才說過啊  eMMC 5.1速度輸很多  不是很多人不在
+platolove: 意嗎?  ㄏ
+OscarShih: 手機不是來比速度的,是拿來用的,跑分比讀取阿宅做的
+OscarShih: 你看過形男潮女在那裡跑分的嗎, 沒有吧
+SAYHINEO: G5在跳水到一萬五以下，就可以左打10，右打S7 榮登P
+SAYHINEO: TT機皇啦
+OscarShih: G5能賣超過1000台就要開香檳了誰跟你PTT機皇
+OscarShih: 反串也不要這樣好嗎
+SAYHINEO: LG告訴我們機皇比的是跳水的速度
+sarah946422: oscar大大功力越來越爐火純青了 超佩服…
+rockmanalpha: 難道V10的後繼也要跟上次一樣要等到年底?
+Catlaco: V10在北美市場賣得很好 應該會有後繼啦 到時候左打
+Catlaco: i7 Plus 右殺Note6 一統年底高階手機市場 好期待!!
+OscarShih: V10真的賣的很好嗎,卡難吧,那麼大支的5.7吋
+rockmanalpha: 我才不管啦 手機適合自己最重要
+OscarShih: LG有說過,模組化不會停在G5,搞不好V20也來個模組
+OscarShih: 到時又像白痴一樣收你200美金買一個長下巴
+SAYHINEO: V10跳比較慢啊，總不可能大賣跳更快吧
+SAYHINEO: 我是很希望G5跳快點買一隻來玩玩 很怕明年退出台灣
+SAYHINEO: 市場
+popm: 影片中htc開map速度跟我M7一樣,我去試用卻快很多
+OscarShih: 跳的快慢和補貼有關阿,G5的補貼和V10差不多,快不了
+priv: 看了一下，HTC 10 真的沒有影片裡面那麼慢，測試可
+priv: 能有什麼問題
+rockmanalpha: 拜託不要 不喜歡模組設計 用在G系列就好 (有點歪樓
+priv: 不過一樣條件 G5 卻沒問題，只好推 G5
+OscarShih: 應該是影片做了手腳,三星又花錢了嗎
+sky79717: 說好的perfect
+LianD: 內外跟推文的影片是不是同個人發的？怎麼遊戲讀取
+LianD: 都有問題
+mascherina: 拒用三星
+tddt: 10 心裡自動加快秒速不意外
+fcfd: 影片都有秒數跟測試的APP 不服可以自己測再公佈打臉
+fcfd: 啊^^
+theHum: s7到底哪裡不好啊 在這個版一直被嫌欸
+mader4444: 支持奧斯卡平衡言論大師+1
+mader4444: S7背面沒刻MIT當然不好，g5是MIK也該淘汰
+Abysslol: 這篇明明就是在討論速度 就是有人想戰G5外型
+uj0130: 不管啦，照買10台10支持啊
+SuM0m0: 遊戲轉圈圈不是在連server嗎
+SuM0m0: 還有兩台進去明顯有一台開過了
+AndyZer: 實測好的就惦惦 實測差的就傾巢而出動了XD
+DiChik: 我還在等PhoneBuff的SpeedTest影片啊 好慢啊
+doom3: 第三圈只要25秒 其實是最快的 XDD 起跑也太慢...
+priv: S7 哪有不好，它是有史以來 ptt 和整個台灣評價最好
+priv: 的 S 系列了吧
+priv: 你有看過台灣人討論 S 系列比討論 Note 還多的嗎？
+priv: 不過 S7 不必打廣告了，還是來討論護板神機 G5 吧
+kblover: 還是g5好  講的我都想換了www
+priv: 第三圈最快就比較沒 restart 吧
+priv: speedtest 有時候網路影響滿大的
+natsugo: 只能推G5了....不過剛繳完保費沒有錢QQ
+xiaoyao: 買G5不如買 V10，至少相機不差太多 ，音質外型耐摔
+xiaoyao: 贏 XD
+r51303: 推樓上
+natsugo: V10有點重 續航好像G5好一點
+xiaoyao: V10 缺點就是不能放屁股口袋 ……哭 Q.Q
+Catlaco: 要不是V10 LG自宮 只用S808 就入手了...
+Catlaco: 希望今年V10後繼機種LG不要亂搞..
+rockmanalpha: 用808比810好啊 效能差點但大眾市場應該還堪用
+rockmanalpha: 810太雷了 誰用誰死 XD
+rockmanalpha: 我也很期待V10後繼 只要升級硬體 把G5的相機程式拿
+rockmanalpha: 來用就爽了
+cee310: 10叫好不叫座，吹捧出來的，g5來插花的，
+cee310: 還是買星星星比較實在
+Catlaco: S810用輪流關核還比S808強阿 SONY Z5就是這樣搞的
+Catlaco: G4 V10 用S808輸了效能 續航也調不好 根本落漆
+rockmanalpha: 其實10是一台好手機 只是現在很多人都以非最好即爛
+rockmanalpha: 這種二分法看手機
+rockmanalpha: LG應該覺得他們手機可換電 所以一直不太理續航...
+wind80053: 不準 htc神調教
+hyghmax1202: 原來是eMMC 5.1，之前我是在哪裡看到是5.0的…(瞎)
+hyghmax1202: 。話說loading慢不代表手機爛啦！這點要替hTC平反一
+hyghmax1202: 下，S82 0贏在GPU，所以玩遊戲的時候會比8890順一點
+hyghmax1202: ，只是不知道順多少而已？(ms級距？)跑分真的不能代
+hyghmax1202: 表一切，真正的使用者體驗來自於的使用者的真實感受
+hyghmax1202: 。
+iomirror626: 至少10在第二輪拿了第一(值得欣慰？
+DiChik: 其實樓主的那個...Loading的APP都還不算重度啦
+DiChik: YouTube上PhoneBuff頻道的SpeedTest倒是很考驗XDD
+OCEANBOY7329: 這一定是幻覺……說好的神調教呢……連G5都贏不了
+dylanlee: 完美10肯定被黑被陷害惹
+Fubukichan: 反串過頭了吧…有點噁心
+Fubukichan: 呃 這不是針對任何人 這只是覺得過度反串讓我不舒服
+Fubukichan: 而已，別桶我QQ
+kzadb: v10真的就差個cpu了....但是真放了就不只這價。
+shi21: 整篇推文有9成在反串 而且還一搭一唱 真是.....
+cathy621: 也輸太慘了吧，真的是這樣嗎
+priv: 最近就流行反串風啊
+ji3g4vul3eji: 看看YouTube下面的留言就知道是假評測 還轉過來不知
+ji3g4vul3eji: 道有何居心
+battlewind: 不要說不舒服這種人身攻擊的話好嗎XD
+Nappa: 明顯手指故意比較慢點10 不然早贏了
+ss56hn: 一堆反串帶風向的
+tetani: htc這速度也慢得太誇張了吧 開app等這麼久
+muffinpat: 嚴重懷疑被黑阿!剛剛試用E9+開real race都比HTC10快
+appleonatree: 假評測
+jjh: 感覺跟手上的10不是同一支，嚴重懷疑被黑
+xyz01016991: 看不懂多少反串在這篇...想得到手機資訊還真難==

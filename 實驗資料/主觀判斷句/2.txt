@@ -1,0 +1,147 @@
+10[問題] Pixel 4 XL 夜拍
+
+super1725w: 鏡頭髒掉？
+a27588679: 看不出來有同心圓
+crydadcrymom: 我在拍之前有清過，所以應該不是這個問題QQ
+crydadcrymom: 第二張點進去看會比較明顯
+dujifsim: 點開就看到了
+crydadcrymom: 第三張則是有類似等高線的紋路
+tom282f3: 同心圓調一下比較明顯（雖然我調的很爛）
+tom282f3: https://i.imgur.com/WPY0Y3v.jpg
+silence5105: 附近有路燈嗎
+jhangyu: 這很猛了，同心圓是光圈全開常有的暗角問題
+jhangyu: 一般白天亮度足夠時差異不大，不會很明顯
+jhangyu: 但是在拍星空時，因為原本光源就很稀薄
+jhangyu: 中心和邊角的亮度差異都很容易放大，所以就會很明顯
+jhangyu: 至於你說的「等高線」
+jhangyu: 這也是拍攝星空或是漸層天空常遇到的現象
+alex1973: 你是用甚麼螢幕看的 ? 還是手機直接看 ?
+f80659: 為什麼我覺得mo ptt顯示的照片比點進去看還乾淨
+alex1973: 說實話我現在在電腦螢幕看, 三張圖點進去圖床看大圖
+crydadcrymom: 後方有一些沿著海岸線的路燈，但距離至少有幾十公
+alex1973: 都看不出有甚麼同心圓
+crydadcrymom: 尺
+jhangyu: 攝影上我們把這個成為「斷階」
+jhangyu: 在沒有抖色的JPG壓縮算法之下
+jhangyu: 某些懶惰、效能不彰的JPG Encoder無法記錄完整的色
+crydadcrymom: alex大，我是用手機看
+jhangyu: 彩空間中所有的顏色
+abc21086999: 抓到，Pixel懶惰
+alex1973: 中間比較亮邊緣比較暗是明顯點, 但是看不出同心圓
+jhangyu: 所以在「顏色不足」的情況下漸層與漸層之間的過渡由
+jhangyu: 於少了足夠多的顏色過渡
+jhangyu: 就會形成「斷階」
+crydadcrymom: 謝謝J大詳細的解釋，本來以為拿到機王，有點緊張Orz
+alex1973: 會有一圈一圈的是有些低階螢幕無法顯示所有色階的狀
+alex1973: 況, 但是 P4 螢幕應該沒這麼差吧
+jhangyu: 絕大部分的手機裡面的JPG Encoder都會有這種情形
+jhangyu: 因為對手機這種效能不佳的硬體來說
+jhangyu: 速度比儲存完整的色彩資訊重要
+jhangyu: 只有電腦裡面的Photoshop
+jhangyu: 或是其他專業在處理照片的軟體使用的Encoder
+jhangyu: 才會忽視效能因素用絕對最完整的色彩空間
+jhangyu: 或是抖色算法來編碼一張照片
+tom282f3: j大超專業 我Note9也看得出同心圓
+jhangyu: 目前市面所有的螢幕顯色都至少涵蓋sRGB 70%以上色域
+jhangyu: 不太可能因為螢幕因素而出現斷階喔
+tom282f3: 請問j大 手機拍RAW 再用電腦轉jpg的話可以避免嗎
+jhangyu: 要解決這種問題，就是拍攝照片時使用RAW檔拍攝
+jhangyu: RAW檔能夠儲存完整的高bit色彩矩陣
+jhangyu: 事後你再透過電腦裡面的Photoshop Camera RAW，或是
+jhangyu: Lightroom
+jhangyu: 或是手機版的Lightroom (這個是免費的)
+jhangyu: 來重新用這些軟體的專業Encoder轉存JPG
+jhangyu: (但要注意，預設打開RAW檔時畫面會非常灰
+jhangyu: 要自己手動重新調整)
+jhangyu: 這樣才能避開手機系統內建的簡易版JPG Encoder
+jhangyu: 避免產生斷階的照片
+alex1973: 剛剛換用手機看, 點開大圖果然看懂原 po 的問題是甚
+alex1973: 麼, 所以看來是手機的 jpeg decoder 的 dithering
+jhangyu: 可以的，一般要避開斷階最標準的做法就是拍RAW
+jhangyu: 然後用專業軟體重新調整後轉存喔
+alex1973: 在作怪, 因為同樣一張圖, 我用電腦看就完全看不出色
+alex1973: 階不連續的問題
+jhangyu: 是的，手機裡面的某些軟體dithering不佳
+jhangyu: 也可能會造成這種情形喔
+LoveShibeInu: 推文詳細推
+crydadcrymom: 非常感謝推文專業、詳盡的解釋!
+semicoma: 就暗角啊 這在以前底片隨拍時還是特色呢
+RG5678: 不愧是j大= =
+semicoma: 然後第二張左下角那兩條是電線吧?
+jhangyu: 不會，祝你能夠拍出完美的星空！
+yen0829: 回文專業推
+jack168168tw: 在文章頁面看正常，點圖進去就出現等高線了，好奇妙
+randy061: 此處看得出同心圓是螢幕顯色數不足
+kaienchou: 推知識
+theevilM: 同心圓？在哪？
+mystik: 推專業j大
+good5755: 推文好專業
+Allen0835690: 推文  厲害!
+yen0829: 下載圖片後放大看可以看到邊緣像Minecraft一樣的破
+yen0829: 碎色階呈現同心圓狀往外擴散
+YinYuehPuYeh: imgur手機版網頁，和電腦版網頁畫質也有差
+fupm: http://i.imgur.com/jFtirmT.jpg
+fupm: 用S10+截圖看起來有差嗎？
+ccufcc: 我手機不懶惰
+YinYuehPuYeh: 上面S10+很明顯！但我用電腦和手機直接看原圖不會
+Neil000: 專業推文
+andy30093: iPad 看原圖沒問題 看推文截圖才知道再說啥
+rice35: 推文好猛，長知識...
+ap66558822: s10放大圖真的會～
+Beginners: 感溫專業推文
+ZnOnZ: 有欸，真的好誇張
+a27588679: s10的好明顯
+yalamina: s10好明顯
+VaLenTi1007: s10太明顯了吧  我電腦板看原po的完全看不出來
+xu3fu6xup6: Sony XZ2p逼近沒有
+xu3fu6xup6: 看來索尼還是有值得稱讚的地方QAQ
+yashiro: 長知識了！原來我的手機比較懶惰
+mvpdirk712: 長知識
+ozon: U11看不到同心圓
+dala123: Xs 看起來沒有同心圓
+JJ925841: 推
+seishin: 推j大專業推文
+a27588679: 發現我用手機看也可以看到明顯的同心圓跟等高線
+AtDe: 推文長知識
+abcpiii: 你這我用x1看是斷階，x1螢幕規格不錯應該是，不是暗
+abcpiii: 角，
+abcpiii: j大正確，現在才看到，感謝分享
+foxface: 用note9+jppt看，文章看圖看不到斷層，點進去才看得
+foxface: 到@@
+sing20020903: 看不出來有同心圓，但是J大很專業
+kevingamer: 跪著看留言
+haopig: j大之前還為了Gcam在這邊跟01跟一堆人筆戰，現在瞬
+haopig: 間洗白
+jeff872984: 雖然之前被j大嗆 但還是幫推
+james732: 電腦看不出來+1
+l11k755013: 專業推推
+kuff220: U11要點開放大才有同心圓耶
+super1725w: 長知識
+ecsvs017: 推J大專業推
+cygnusx123: 推文好強！！專業推
+abc0922001: 手機跟電腦都沒看到Orz
+longkiss0618: 電腦看沒啥問題 但推文的某一張就很明顯
+fancyolife: 我只覺得天體攝影模式超強，請問這是有上腳架還是徒
+fancyolife: 手拍的
+rexsony: 手機板什麼時候才能多幾個jhangyu這樣專業的人呢?
+hcrcool: Lens shading可能不漂漂
+BenJMAS: 他可是某xiaoyao崇拜的「大師」呢。
+BenJMAS: https://i.imgur.com/5yAHLDf.jpg
+BenJMAS: https://i.imgur.com/icIZigA.jpg
+BenJMAS: 結果當初揭竿起義的索粉後來直接不演了，轉職成大
+BenJMAS: 花粉。
+dejavu0409: 長知識了
+booksale: S10也太糟 XR沒看到
+sakeru: S10那個好明顯， 電腦看不到
+BenJMAS: https://i.imgur.com/WXAVQfH.jpg
+BenJMAS: 為什麼我用電腦看也是有同心圓，色彩編碼的問題真
+BenJMAS: 的很玄。
+jameshcm: 你確定不是 牛頓環 ？
+james732: 我電腦看不到，但用P4看你的照片就很明顯 XD
+crydadcrymom: 回122樓f大，我有上腳架
+SHENG2014: 不錯，還有拍到昴宿星團
+ededws1: 原來真的是昴宿星團
+DemonElf: 沒想到我華碩5z居然不會有斷階問題耶！
+DemonElf: http://i.imgur.com/7qH0YDh.jpg
+carlos159357: 我的XZ3、X5 竟然會斷階，嗚嗚，不是導演模式的螢幕
+carlos159357: 可以看到很多色彩嗎？

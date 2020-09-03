@@ -1,0 +1,224 @@
+2[問題] hTC 11+或12+或其他？？
+
+james732: 需求是什麼？
+jhangyu: 都不要，看過那個崩潰的續航了嗎？
+jhangyu: http://bit.ly/2K7jcvA
+jhangyu: 不要韓系的，那就台製ZF5(z)或是 Nokia 7 Plus啊
+waveguide56: 12就相機比較強..其他...
+jhangyu: 不要以為旗艦機「綜合體驗」最好
+jhangyu: 旗艦機只有遊戲體驗最好，那個效能就是拿續航換的
+jhangyu: 舉個例子跑車都沒在省油的
+jhangyu: 不信你去看看去年S821各種降頻卡頓案例
+dreamsct: 很多手機可以選 為何偏偏要挑這兩隻...
+hsyumi1026: 不在意螢幕偏黃就11+即可
+talrusha: 用途是公用的嗎？那就11+就可以了
+jhangyu: #1RFWb08r 前面就一篇開箱文，建議你看看
+jhangyu: 硬要挑這兩隻，當然選電量大的11+
+MBAR: 旗艦機明明除了續航以外其他大部分體驗就都是最好的
+de092112: 既然都會黃不如挑個亮度高點的XD
+MBAR: 某些旗艦自己做的比他家旗艦或中階差那是它的問題
+Wolverine56: 續航又不是一切，以前買小米max2一天就退貨了，連
+Wolverine56: 基本的錄影錄音都用不好，空有一顆大電池而已
+jasn4560: 買U12+啊 充值一下台灣價值
+ksf1002: 需求開app順 開照片順 現在的開賴的照片很lag 不太
+ksf1002: 玩遊戲  拍照好看...等 謝謝
+air1007: iphone
+Carol3067: 拍照會手動嗎?
+Carol3067: 高通820的耗電很可怕，再怎麼樣也比htc 10省電吧..
+Carol3067: .
+Carol3067: 旗艦sony是錄影lg強調音質三星note的筆....之類的
+Carol3067: ，每家旗艦的賣點都不一樣...
+jhangyu: 那就Nokia 7 Plus啊，絕對順
+jhangyu: 續航不是一切，但如果「目前」S660就能做到跟以前
+jhangyu: S821一樣的效能，那當然選S660
+jhangyu: 旗艦最大的問題是溫控
+jhangyu: 只有旗艦SoC可以把手機烤的燙燙的
+jhangyu: 然後撞到功耗牆之後立馬降頻成S625的效能
+jhangyu: 目前能壓制旗艦SoC散熱的大概只有ROG
+Carol3067: 散熱可以解決，但是耗電的問題還是很嚴重啊...
+x3028671: 日常使用的話s660之類的應該可以勝任吧
+jhangyu: 這就是我不推旗艦SoC的原因，「日常使用」
+jhangyu: S660/S710/S636絕對表現的比S8XX還要好
+ksf1002: 拍照偶而會手動  iphone超出預算啊！
+Heathclifff: iPhone
+tony12526: 旗艦機的重點是ufs閃存，開app的速度跟使用順暢度
+tony12526: 及照相錄影儲存速度的差異有感，尤其google地圖用u
+tony12526: fs2.1的u11+真的超級順暢
+Heathclifff: 噢沒看到預算拍謝
+Carol3067: 660跟835 845主要差在gpu吧，又不太玩遊戲就沒差吧
+Carol3067: ...
+tony12526: 而s660的手機目前沒有一台是搭載ufs閃存的
+kiwiho: u11+電量你上班族絕對夠
+lp2650056: 當然12+，htc靠你們救了欸
+jhangyu: 樓上這倒是沒錯的，這就要看你取捨了
+jhangyu: 不過我目前無法體會到太多的差異
+jhangyu: 畢盡現在有些系統會幫你預載App的RAM裡面
+jasonpttt: 當然u12+原因無他，就是HTC的營收靠你拯救
+ksf1002: 所以如果是這兩支  就不用等12+降價了？？
+jhangyu: 不用了
+jhangyu: 現在少花一萬都能買ZF5z了，幹嘛為了這個等
+Carol3067: 客服證實標準版高通710的vivoNEX也是UFS2.1閃存顆
+Carol3067: 粒，原來高通710有手機用了ufs閃存了...
+james732: 話說12+建議去操作看看實機，特別是按鍵部份
+Carol3067: 660沒有ufs，但是710有。
+james732: 實際用過真的覺得那按鍵被罵是剛好而已 XD
+Carol3067: https://i.imgur.com/p7gUh2g.jpg
+Carol3067: 話說htc去年在美國還有市佔啊，以為已經歸零了...
+jhangyu: 美國智慧型手機的廠牌似乎比台灣少，台灣又比中國少
+jhangyu: 不過台灣已經很幸運了，有各國的廠牌可以選擇
+whynot0629: U11+有符合你需求吧
+james732: 台灣到底會不會有Pixel啊 QQ
+benki: 11+如果常在戶外用，不推，個人換掉的最大原因
+Carol3067: Motorola不是已經變成聯想的貼牌機了?就像夏普noki
+Carol3067: a變成鴻海的形狀一樣...
+super1725w: u11+吧
+z8903: u12+如果可以接受側邊按鍵問題，可以買
+DFIGHT: 推醬油和x302大大，旗艦機使用透明不散熱的背殼，
+DFIGHT: 也只有傻瓜才會買，人家隨便充一下玩一下溫度不是
+DFIGHT: 都飆高，怎麼玩？而6系列怎麼充怎麼玩都還可以玩夠
+DFIGHT: 冷，像是主打遊戲散熱那種遊戲機才可以買，神經病
+DFIGHT: 才買某水果無線充電慢又沒散熱燜燒型爛設計偏偏還
+DFIGHT: 一大堆迷信的，醬油大大說的太好了，受小弟一拜
+DFIGHT: 說真的跑分機就是說那種只會跑不會散熱的水果機啦
+DFIGHT: ，遇到散熱或是電池壽命到就給你降xddd，以為封閉
+DFIGHT: 系統沒人會發現
+inlon: 玻璃保溫佳 冬天好好用
+jhangyu: 我看了一整串才發現我是醬油XDD
+jhangyu: 手機這種封閉無主動散熱撞功耗牆的就只能降頻
+jhangyu: 現在遊戲也很少是設計給只有旗艦SoC能玩的
+jhangyu: 如果真的要玩特效開好開滿的遊戲
+jhangyu: 就去買有專門設計散熱機構的遊戲手機吧
+repast: 某樓又再續航續航，乾脆以後買手機都看電量多少就好
+repast: XD
+Carol3067: 可以學switch遊戲機放風扇啊...
+jhangyu: 不然repast你覺得手機不看續航要幹嘛？
+jhangyu: 手機是行動裝置
+jhangyu: 有行動裝置是要隨時插著電才能用的嗎？
+jhangyu: 要那樣玩還不如玩Vive呢
+dreamsct: 要續航就UU＋小米12000mAh 結案 有QC3 續航沒差
+james732: UU還值得考慮嗎？覺得有點…
+jhangyu: 那不就變成要一直插著電才能用了嗎……
+Heathclifff: 好炫噢 這串也可以扯到水鍋
+repast: 是是是，所以挑手機首看電量大小，幫愛瘋QQ
+SKYHas: 11
+Heathclifff: 呵呵 沒散熱不超頻 再開省電 表現還贏別家
+ksf1002: 所以就11+和zf5z和7plus選囉？大家主推哪支？謝謝
+jhangyu: 我先選7+
+Heathclifff: 除了iX有這問題吧 熱會自降速
+Heathclifff: 遊戲看你玩啥吧
+Heathclifff: 6系列的gpu都跟屎一樣 有碰3D就別
+Heathclifff: 其他日常沒差
+Heathclifff: 11+有尿屏 真的選建議U11
+ksf1002: 都是小遊戲而已，想換的主要原因是開賴照片要超久
+ksf1002:   囧
+jhangyu: iPhone的續航強是在待機，因為iOS超會砍背景
+jhangyu: 遊戲續航也會比其他家好，因為有針對優化
+jhangyu: 也不像Android有模擬層buff掉效能
+jhangyu: 但是如果全部都只執行App
+jhangyu: 就會讓1700mah的電池立刻露餡
+jhangyu: 加上因為電池小，循環次數高，電池衰退快
+jhangyu: 一年後的續航力一定大大不如首年
+jhangyu: 你不看蘋果工程師如此「貼心」的幫使用者降頻了嗎？
+jhangyu: 這就是個iPhone實際續航力不高的明證
+Heathclifff: 中階開Line不會快到哪 我後來試過了
+Heathclifff: 愛瘋衰退速率很慢了欸 .. 比TC三星還慢了
+Heathclifff: 再怎麼樣頂多一年10%
+Heathclifff: 不過這預算也買不到 也沒討論必要就是
+jhangyu: 我來傳個開Line的影片吧
+jhangyu: 證明一下中階S636已經不慢(但也沒有到極快)
+Heathclifff: 當然要不要捏上去看需求啦 你需求也不必用到遊戲機
+Heathclifff: 不過835是比較好的選擇 如果你想用久順順
+jhangyu: https://youtu.be/JMg-ECT6PQk
+jhangyu: 剛上傳，現在看應該很糊，只能看速度
+Heathclifff: 實際沒真的砍徹底吧 進去頁面跑到最右
+Heathclifff: 不過不管怎樣啦 都比愛瘋快.....平均速度來說
+jhangyu: 我特別進去結束耶，這砍的比滑掉的徹底吧？
+jhangyu: 最右邊是Adguard和Timely，Line一開始就被劃掉了
+Heathclifff: 開慢開快感覺是看背景是不是自己砍光
+Heathclifff: 記得手機當下直接砍再開都沒差  跟放的時間有關係
+Heathclifff: 砍掉 執行別app一段時間再回頭去開就有感
+Heathclifff: 總之載入相片速度那些還是挑UFS的旗艦吧 讀取速度差
+Heathclifff: 異真的大
+Heathclifff: 光影片就會有感了
+jhangyu: https://youtu.be/b8otGf8XJzI
+jhangyu: 應要求，砍上一個影片，好吧，我最久有等過3秒半
+jhangyu: 那應該就是你說的那種情形了
+Heathclifff: 嗯啊 總之 Line真的很神奇又很糞
+jhangyu: 相片載入速度要換App比較有感，原廠的相簿App都是…
+jhangyu: 要說最糞的相簿App其實是Google相簿
+Heathclifff: Google相簿在ios 糞到一種極致...
+Heathclifff: 安卓上比較無感 可能我少用吧@@
+jhangyu: 快圖或是Simple Album滑1000張圖的速度
+jhangyu: 大概有Google相簿的10倍有
+jhangyu: Google相簿甚至在我媽手機被我隱藏
+jhangyu: 省得她又來問我說為何照片打不開沒出現
+jhangyu: 快圖可以直接一直滑一直滑都不用停
+jhangyu: 圖片一直流暢載入
+jhangyu: Google相簿滑到一半就開始載入卡住
+jhangyu: 最後整個畫面，系統就不動了，乾
+Heathclifff: 也太扯= = 不過ios內建相簿真的神快
+Heathclifff: 連以前emmc的機子都可以隨時滑幾千張
+jhangyu: 是比較快，但是沒檔案系統太痛苦，無法使用Orz
+Heathclifff: 我是很早就用iTunes 所以比較無感@@
+Shimotsukin: 為何只選擇電子垃圾
+tony12526: s835我的使用經驗覺得兼顧效能又省電，又兼具良好
+tony12526: 的控溫（一般使用還真不太會明顯發熱）的旗艦處理
+tony12526: 器，值得一推
+tony12526: 而這兩支拍照u12+>u11+（12+鏡頭可以拉比較遠、對
+tony12526: 焦非常快，但u11+對焦也算快了，DXO的分數12+也比
+tony12526: 較高）（錄影u12+有多一些功能我就不贅述），續航u
+tony12526: 11+>u12+（詳細可看廖阿輝測續航資料庫，u12+的數
+tony12526: 據有兩個，還有一個降低解析度的版本）。螢幕最大
+tony12526: 亮度u12+>u11+（u12+螢幕最大亮度跟htc10差不多）
+tony12526: 。屏佔比u12+>u11+，然後u12+要看你能不能適應那個
+tony12526: 按鈕（個人覺得要輕輕按比較會成功），喇叭都非常
+tony12526: 優秀，控溫上u11+比較不會發熱，然後u12+未來可以
+tony12526: 透過軟體更新支援5g上網，剩下就看你的需求決定了
+hsinggg: 我8到12都有, 你要上班公務我推11+
+aoc902001: 力推u11+,現在沒尿屏問題，設定可以改，可以變成以
+aoc902001: 前的白。營幕設定檔改dci-p3就行，我u11+是去年剛推
+aoc902001: 出時買的，價錢跟效能非常滿意。
+NetsFan: u11+
+lucy07030703: 沒差多少錢，當然買12
+hank12332: 如果有常玩遊戲當然是s835以上，推那個s6xx的人是
+hank12332: 怎樣XD
+hydebeast: 旗艦的重點不是一直都是拍照跟更新嗎…= =
+Exynos: 這篇主要是公務用，不是遊戲用，買旗艦幹嘛？
+Exynos: 公務用最大的需求，電量續航肯定要是首選
+Exynos: 很快沒電了會很麻煩的，我首推Nokia7+，HTC續航差
+Exynos: U11+空有近4000mAh電量沒有4000mAh的續航力，笑死
+Exynos: U12+還縮水，續航慘不忍睹，按鍵那個被罵剛好而已
+Exynos: 對了，不要韓系，那中系呢？
+jhangyu: 181樓在講啥鬼？玩遊戲中毒了嗎？公務機玩什麼遊戲?
+jhangyu: 問題是HTC的旗艦安全性更新超慢的啊！
+jhangyu: 本版一大堆旗艦中毒的人
+jhangyu: 不了解自己和別人需求就硬推別人旗艦
+jhangyu: 我覺得這種意見看看就好
+xiaoyao: 公務機選續航優先，難道你要掛著尿袋嗎？
+tony12526: 幫別人按照他的需求推薦適合的東西是一件好事。不
+tony12526: 過雖然是公務機原po就是在文中考慮用u11+跟u12+代
+tony12526: 表這兩台可能有吸引原po的點或是功能（說不定他想
+tony12526: 體驗edge sense，eye的規格可能不夠吸引他），u11+
+tony12526: 當公務機續航絕對夠用(htc10跟u11+我們家兩支都有
+tony12526: ，u11+的續航尤其是螢幕使用時間我覺得大約有10的
+tony12526: 兩倍)，原po說不定也會用公務機使用google地圖，這
+tony12526: 裡操作順暢性上真的就有差
+ksf1002: 其實雖然是公務機 但網路吃到飽  所以  也都拿來私
+ksf1002: 用了   倒是遊戲多半是小型的而已  選hTC 是因為只
+ksf1002: 用過他家的  之前主管也用  後來跳iphone 所以 選hT
+ksf1002: C比較安全
+yurian: 這兩隻又有補助當然是u12＋……同樣尿屏(且太嚴重
+yurian: 可以走維修吧 ) 不玩遊戲又在上班續航應該勉強  音
+yurian: 量鍵就安裝別的程式取代
+yurian: 電源鍵就休眠時間調短一點  開機用指紋就好
+yurian: 其實有lg的ui的話 音量電源都只是裝飾而已 只有換
+yurian: 電池時會用到 可惜抄的好的是華碩 htc雙擊只有半套
+super1725w: u12+暫時還是先別推吧 我覺得已經是半成品趕上架的
+super1725w: 等級了
+repast: 結果說公務機不能拿來玩遊戲的臉好腫XD
+jhangyu: 這也叫臉腫XDDD H粉現在只能這樣了嗎？幫QQ
+jhangyu: https://youtu.be/ZrSst5AMLAU
+jhangyu: 對了，開始地圖速度，S636也是可以很快
+jhangyu: 或是說沒有想像慢
+alexlu70233: 都不要 兩台都是___
+rockhart: 11+就夠用了
